@@ -1,0 +1,14 @@
+Data Structures/Collection
+
+List
+=> collection of any type of data
+=> []
+Tuples
+=> similar to list but immutable(cannot be modified)
+=> ()
+Dictionary
+=> collection of data in a key:value pair
+=> {key:value}
+Sets
+=> collection of unordered unique type of data
+=> {}
