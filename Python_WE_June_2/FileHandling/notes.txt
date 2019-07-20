@@ -1,0 +1,12 @@
+File Handling
+Types of file :
+- text
+- binary
+File Handling Process :
+1. Open
+2. Read/Write
+3. Close
+Modes of file handling:
+read   - rt/r+/rb
+write  - wt/w+/wb
+append - at/a+/ab
