@@ -1,0 +1,10 @@
+Exception Handling
+
+- Pre defined Exceptions
+	=> BaseExceptions
+- User Defined Exceptions
+
+try	- Logic is written in this block
+except	- Exceptions are handled in this block
+else	- either except will execute or else will
+finally	- it will execute everytime whether error come or not
